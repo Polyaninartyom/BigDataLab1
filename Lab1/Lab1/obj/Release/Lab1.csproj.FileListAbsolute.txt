@@ -1,0 +1,7 @@
+C:\Users\Polan\source\repos\Lab1\Lab1\bin\Release\Lab1.exe.config
+C:\Users\Polan\source\repos\Lab1\Lab1\bin\Release\Lab1.exe
+C:\Users\Polan\source\repos\Lab1\Lab1\bin\Release\Lab1.pdb
+C:\Users\Polan\source\repos\Lab1\Lab1\obj\Release\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Polan\source\repos\Lab1\Lab1\obj\Release\Lab1.exe
+C:\Users\Polan\source\repos\Lab1\Lab1\obj\Release\Lab1.pdb
+C:\Users\Polan\source\repos\Lab1\Lab1\obj\Release\Lab1.csprojResolveAssemblyReference.cache
